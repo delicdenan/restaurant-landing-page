@@ -23,10 +23,10 @@ To run the project in development mode, run npm start in the project directory. 
 
 ## Technologies Used  
 
-React  
-HTML  
-CSS  
-JavaScript  
+-React  
+-HTML  
+-CSS  
+-JavaScript  
 
 
 ## Credits  
